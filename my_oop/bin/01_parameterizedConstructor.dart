@@ -6,7 +6,6 @@ class Student{
   //konstruktor
   Student(this.name, this.age, this.rollNumber);
 }
-
 void main() {
   //student adalah object dari class
   Student student = Student("John", 20, 1);
